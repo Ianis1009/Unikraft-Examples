@@ -1,7 +1,7 @@
+# TODO: Solve errors
+
 spec: v0.6
 
 runtime: unikraft.org/node:20
-
 rootfs: ./Dockerfile
-
 cmd: ["/app/hello.js"]
